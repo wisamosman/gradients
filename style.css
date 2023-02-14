@@ -1,5 +1,5 @@
 .q1{
     width: 500px;
     height: 200px;
-    background-image: linear-gradient(red 75%,blue);
+    background-image: linear-gradient(red ,blue,orange);
 }
